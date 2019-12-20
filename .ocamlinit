@@ -1,0 +1,7 @@
+#require "str";;
+#require "oUnit";;
+#require "ANSITerminal";;
+#require "diff";;
+#directory "_build";;
+#load_rec "diff.cmo";;
+#load_rec "main.cmo";;
